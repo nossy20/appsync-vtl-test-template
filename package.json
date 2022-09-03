@@ -1,0 +1,27 @@
+{
+  "name": "appsync-vtl-test-template",
+  "version": "1.0.0",
+  "description": "appsync-vtl-test-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nossy20/appsync-vtl-test-template.git"
+  },
+  "keywords": [],
+  "author": "s.nozaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nossy20/appsync-vtl-test-template/issues"
+  },
+  "homepage": "https://github.com/nossy20/appsync-vtl-test-template#readme",
+  "devDependencies": {
+    "amplify-appsync-simulator": "2.4.1",
+    "amplify-velocity-template": "^1.4.8",
+    "velocityjs": "^2.0.6",
+    "vite": "3.0.4",
+    "vitest": "0.20.3"
+  }
+}
